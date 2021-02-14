@@ -1,5 +1,7 @@
 # FaceMaskDetection
 
+Runs folder sa pretreniranim modelom: https://drive.google.com/file/d/1z2nuk8Y6rNEuqoI0aO8IPHLS5El2gSAE/view?usp=sharing
+
 Podatke sa: https://drive.google.com/file/d/13KC53GYdPDAX2LMolky6Ou_gutoCBrtv/view?usp=sharing
 
 Treba ubaciti pored korenskog foldera (pored FaceMaskDetection foldera).
